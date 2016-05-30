@@ -2,4 +2,6 @@
 
 A simple blue-green colorscheme for Vim.
 
+![Screenshot](screenshot.png)
+
 If you want to use this in a terminal, try [CSApprox](http://www.vim.org/scripts/script.php?script_id=2390).
